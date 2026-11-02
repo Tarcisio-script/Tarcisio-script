@@ -10,7 +10,7 @@
 
 ![Status](https://img.shields.io/badge/status-estudando-00ff41?style=for-the-badge&labelColor=000000)
 ![Foco](https://img.shields.io/badge/foco-Desenvolvimento%20de%20Sistemas-00ff41?style=for-the-badge&labelColor=000000)
-![Rock](https://img.shields.io/badge/vibe-rock%20%26%20guitarra-00ff41?style=for-the-badge&logo=musicbrainz&logoColor=00ff41&labelColor=000000)
+![Rock](https://img.shields.io/badge/vibe-rock%20%26%20guitarra-00ff41?style=for-the-badge&labelColor=000000)
 
 </div>
 
@@ -68,12 +68,12 @@ $ cat sobre.txt
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff&ring_color=00ff41" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=ffffff&hide=html,css,python,shell,makefile,dockerfile" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tarcisio-script&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff&ring_color=00ff41" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tarcisio-script&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=ffffff&hide=html,css,python,shell,makefile,dockerfile" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&currStreakNum=ffffff&sideNums=ffffff&sideLabels=00ff41&dates=aaaaaa" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Tarcisio-script&theme=dark&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&currStreakNum=ffffff&sideNums=ffffff&sideLabels=00ff41&dates=aaaaaa" alt="GitHub Streak" />
 
 </div>
 
@@ -81,7 +81,7 @@ $ cat sobre.txt
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarcisio-script&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true" alt="Activity Graph" />
 
 </div>
 
@@ -89,7 +89,7 @@ $ cat sobre.txt
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Tarcisio-script&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -97,7 +97,7 @@ $ cat sobre.txt
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg" alt="Snake Contribution" />
+<img src="https://raw.githubusercontent.com/Tarcisio-script/Tarcisio-script/output/github-snake-dark.svg" alt="Snake Contribution" />
 
 </div>
 
@@ -107,12 +107,7 @@ $ cat sobre.txt
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/tarc%C3%ADsio-davi-cavalcante-8757a3441">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41" alt="LinkedIn" />
-</a>
-<a href="https://instagram.com/tarcisiodavicavalcante">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff41" alt="Instagram" />
-</a>
+<a href="https://www.linkedin.com/in/tarc%C3%ADsio-davi-cavalcante-8757a3441"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://instagram.com/tarcisiodavicavalcante"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="48" alt="Instagram" /></a>
 
 </div>
 
