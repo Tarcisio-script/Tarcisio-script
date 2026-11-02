@@ -45,20 +45,26 @@ $ cat sobre.txt
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <h3>📁 Em breve</h3>
-      <p>Meu primeiro projeto vai aparecer aqui.</p>
-      <img src="https://img.shields.io/badge/status-em%20breve-00ff41?style=flat-square&labelColor=000000" />
-    </td>
+  <h3> Vida de estudante</h3>
+  <p>Um sistema simples em C .</p>
+  <img src="https://img.shields.io/badge/C-00ff41?style=flat-square&labelColor=000000" />
+  <br/><br/>
+  <a href="https://github.com/Tarcisio-script/Vida-de-estudante">Ver projeto →</a>
+</td>
     <td align="center" width="33%">
-      <h3>📁 Em breve</h3>
-      <p>Mais um projeto a caminho.</p>
-      <img src="https://img.shields.io/badge/status-em%20breve-00ff41?style=flat-square&labelColor=000000" />
-    </td>
-    <td align="center" width="33%">
-      <h3>📁 Em breve</h3>
-      <p>Aprendendo, construindo e publicando.</p>
-      <img src="https://img.shields.io/badge/status-em%20breve-00ff41?style=flat-square&labelColor=000000" />
-    </td>
+  <h3>Site profissional</h3>
+  <p>Meu primeiro projeto no github</p>
+  <img src="https://img.shields.io/badge/C-00ff41?style=flat-square&labelColor=000000" />
+  <br/><br/>
+  <a href="https://github.com/Tarcisio-script/site-profissional-">Ver projeto →</a>
+</td>
+<td align="center" width="33%">
+  <h3>Toke-Metal</h3>
+  <p>Projeto sendo feito</p></p>
+  <img src="https://img.shields.io/badge/C-00ff41?style=flat-square&labelColor=000000" />
+  <br/><br/>
+  <a href="https://github.com/Tarcisio-script/Toke-metal">Ver projeto →</a>
+</td>
   </tr>
 </table>
 
